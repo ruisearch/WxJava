@@ -456,7 +456,7 @@
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
         <artifactId>maven-checkstyle-plugin</artifactId>
-        <version>2.17</version>
+        <version>3.6.0</version>
         <configuration>
           <skip>true</skip>
           <configLocation>quality-checks/google_checks.xml</configLocation>
